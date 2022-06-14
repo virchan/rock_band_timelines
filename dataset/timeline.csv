@@ -1,0 +1,138 @@
+date,band_id,description,type_id
+1969-01-12,Led Zeppelin,Led Zeppelin,0
+1969-10-22,Led Zeppelin,Led Zeppelin II,0
+1970-10-05,Led Zeppelin,Led Zeppelin III,0
+1971-11-08,Led Zeppelin,Led Zeppelin IV,0
+1973-03-28,Led Zeppelin,Houses of the Holy,0
+1975-02-24,Led Zeppelin,Physical Graffiti,0
+1976-03-31,Led Zeppelin,Presence,0
+1976-09-28,Led Zeppelin,The Song Remains the Same,1
+1979-08-15,Led Zeppelin,In Through the Out Door,0
+1980-09-25,Led Zeppelin,John Bonham,2
+1980-12-04,Led Zeppelin,dissolution,3
+1982-11-19,Led Zeppelin,Coda,6
+1985-07-13,Led Zeppelin,Live Aid,4
+1988-05-14,Led Zeppelin,Atlantic Records 40th Anniversary,4
+1995-01-12,Led Zeppelin,Rock and Roll Hall of Fame,5
+1997-11-11,Led Zeppelin,BBC Sessions,1
+2003-05-27,Led Zeppelin,How the West Was Won,1
+2006-11-14,Led Zeppelin,UK Music Hall of Fame,5
+2007-11-12,Led Zeppelin,Mothership,6
+2007-12-10,Led Zeppelin,Ahmet Ertegun Tribute Concert,4
+2012-12-02,Led Zeppelin,Kennedy Center Honors,5
+1975-02-17,AC/DC,High Voltage,0
+1975-12-01,AC/DC,T.N.T,0
+1976-04-30,AC/DC,High Voltage,0
+1976-09-20,AC/DC,Dirty Deeds Done Dirt Cheap,0
+1977-03-21,AC/DC,Let There Be Rock,0
+1977-05-01,AC/DC,Mark Evans,9
+1977-05-27,AC/DC,Cliff Williams,8
+1978-05-25,AC/DC,Powerage,0
+1978-10-13,AC/DC,If You Want Blood You've Got It,1
+1979-07-27,AC/DC,Highway to Hell,0
+1980-02-19,AC/DC,Bon Scott,2
+1980-03-01,AC/DC,Brian Johnson,8
+1980-07-25,AC/DC,Back in Black,0
+1981-11-20,AC/DC,For Those About to Rock (We Salute You),0
+1983-05-01,AC/DC,Phil Rudd,9
+1983-05-31,AC/DC,Simon Wright,8
+1983-08-15,AC/DC,Flick of the Switch,0
+1985-06-28,AC/DC,Fly on the Wall,0
+1986-05-24,AC/DC,Who Made Who,7
+1988-01-18,AC/DC,Blow Up Your Video,0
+1989-11-01,AC/DC,Simon Wright,9
+1989-11-31,AC/DC,Chris Slade,8
+1990-09-21,AC/DC,The Razaors Edge,0
+1992-10-27,AC/DC,AC/DC Live,1
+1994-08-01,AC/DC,Chris Slade,9
+1994-08-31,AC/DC,Phil Rudd,8
+1995-09-26,AC/DC,Ballbreaker,0
+1997-11-18,AC/DC,Bonfire,6
+2000-02-25,AC/DC,Stiff Upper Lip,0
+2003-03-10,AC/DC,Rock and Roll Hall of Fame,5
+2008-10-17,AC/DC,Black Ice,0
+2009-11-10,AC/DC,Backtracks,6
+2010-04-19,AC/DC,Iron Man 2,7
+2012-11-19,AC/DC,Live At River Plate,1
+2014-05-01,AC/DC,Stevie Young,8
+2014-09-24,AC/DC,Malcolm Young,9
+2014-11-28,AC/DC,Rock or Bust,0
+2017-11-18,AC/DC,Malcolm Young,2
+2020-11-13,AC/DC,Power Up,0
+1966-12-09,Cream,Fresh Cream,0
+1967-11-02,Cream,Disraeli Gears,0
+1968-06-14,Cream,Wheels of Fire,0
+1968-11-01,Cream,dissolution,3
+1969-02-05,Cream,Goodybye,0
+1993-01-12,Cream,Rock and Roll Hall of Fame,5
+2005-05-02,Cream,Royal Albert Hall in London,4
+2014-10-25,Cream,Jack Bruce,2
+2019-10-06,Cream,Ginger Baker,2
+1963-03-22,The Beatles,Please Please Me,0
+1963-11-22,The Beatles,With the Beatles,0
+1964-07-10,The Beatles,A Hard Day's Night,0
+1964-12-04,The Beatles,Beatles for Sale,0
+1965-08-06,The Beatles,Help!,0
+1965-12-03,The Beatles,Rubber Soul,0
+1966-08-05,The Beatles,Revolver,0
+1966-12-10,The Beatles,A Collection of Beatles Oldies,6
+1967-05-26,The Beatles,Sgt. Pepper's Longely Hearts Club Band,0
+1968-11-22,The Beatles,The Beatles,0
+1969-01-13,The Beatles,Yellow Submarine,0
+1969-09-26,The Beatles,Abbey Road,0
+1970-05-08,The Beatles,Let it Be,0
+1970-12-18,The Beatles,The Beatles' Christmas Records,6
+1973-04-02,The Beatles,1962-1966,6
+1973-04-02,The Beatles,1967-1970,6
+1974-12-29,The Beatles,dissolution,3
+1976-03-05,The Beatles,The Singles Collection 1962-1970,6
+1976-06-07,The Beatles,Rock 'n' Roll Music,6
+1980-12-08,The Beatles,John Lennon,2
+1988-01-21,The Beatles,Rock and Roll Hall of Fame,5
+1994-01-19,The Beatles,Rock and Roll Hall of Fame (John Lennon),5
+1999-03-17,The Beatles,Rock and Roll Hall of Fame (Paul McCartney),5
+2001-11-29,The Beatles,George Harrison,2
+2004-03-15,The Beatles,Rock and Roll Hall of Fame (George Harrison),5
+2015-04-18,The Beatles,Rock and Roll Hall of Fame (Ringo Starr),5
+1968-07-17,Deep Purple,Shades of Deep Purple,0
+1969-10-01,Deep Purple,The Book of Taliesyn,0
+1969-06-15,Deep Purple,Rod Evans and Nick Simper,9
+1969-06-16,Deep Purple,Ian Gillan and Roger Glover,8
+1969-06-21,Deep Purple,Deep Purple,0
+1969-12-20,Deep Purple,Concerto for Group and Orchestra,1
+1970-06-05,Deep Purple,Deep Purple in Rock,0
+1971-07-09,Deep Purple,Fireball,0
+1972-03-25,Deep Purple,Machine Head,0
+1972-12-08,Deep Purple,Made in Japan,1
+1973-01-13,Deep Purple,Who Do We Think We Are,0
+1973-06-30,Deep Purple,Ian Gillan and Roger Glover,9
+1973-07-01,Deep Purple,Glenn Hughes,8
+1973-09-23,Deep Purple,David Coverdale,8
+1974-02-15,Deep Purple,Burn,0
+1974-12-10,Deep Purple,Stormbringer,0
+1975-06-21,Deep Purple,Ritchie Blackmore,9
+1975-07-01,Deep Purple,Tommy Bolin,8
+1975-10-10,Deep Purple,Come Taste the Band,0
+1976-03-01,Deep Purple,David Coverdale,9
+1976-07-19,Deep Purple,disband,3
+1976-12-04,Deep Purple,Tommy Bolin,2
+1984-04-01,Deep Purple,"Ian Gillan, Ritchie Blackmore, Roger Glover",8
+1984-10-29,Deep Purple,Perfect Strangers,0
+1987-01-12,Deep Purple,The House of Blue Light,0
+1989-06-01,Deep Purple,Ian Gillan,9
+1989-12-01,Deep Purple,Joe Lynn Turner,8
+1990-10-23,Deep Purple,Slaves and Masters,0
+1992-08-01,Deep Purple,Joe Lynn Turner,9
+1992-08-02,Deep Purple,Ian Gillan,8
+1993-07-19,Deep Purple,The Battle Rages On...,0
+1993-11-01,Deep Purple,Ritchie Blackmore,9
+1996-02-17,Deep Purple,Purpendicular,0
+1998-06-02,Deep Purple,Abandon,0
+2003-08-25,Deep Purple,Bananas,0
+2005-10-24,Deep Purple,Raptrue of the Deep,0
+2012-07-16,Deep Purple,Jon Lord,2
+2013-04-26,Deep Purple,Now What?!,0
+2016-04-08,Deep Purple,Rock and Roll Hall of Fame,5
+2017-04-07,Deep Purple,Infinite,0
+2020-08-07,Deep Purple,Whoosh!,0
+2021-11-26,Deep Purple,Turning to Crime,0
