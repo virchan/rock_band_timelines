@@ -1,6 +1,6 @@
 # Rock Band Timelines
 
-A dot plot of rock band activities. A [Colab demo](https://colab.research.google.com/drive/1KYzdETKzd3t8xYOzpo2LhFmwUJygG73Z?usp=sharing) is presented here.
+A dot plot of rock band activities. A [Colab demo](https://colab.research.google.com/drive/1KYzdETKzd3t8xYOzpo2LhFmwUJygG73Z?usp=sharing) is presented here and locally.
 
 Activies of multiple rock bands are studied as a whole here. Such activies include release of albums, member changing, and awards. The result is an interactive dot plot:
 
