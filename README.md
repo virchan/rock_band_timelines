@@ -2,7 +2,7 @@
 
 A dot plot of rock band activities. A Colab demo is available both [online](https://colab.research.google.com/drive/1KYzdETKzd3t8xYOzpo2LhFmwUJygG73Z?usp=sharing) and locally <code>rock_n_roll_demo.ipynb</code>.
 
-Activies of multiple rock bands are studied as a whole here. Such activies include release of albums, member changing, and awards. The result is an interactive dot plot:
+Activities of multiple rock bands are studied as a whole here. Such activities include the release of albums, member changing, and awards. The result is an interactive dot plot:
 
 ![visual.png](pic/visual.png)
 
