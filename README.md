@@ -11,7 +11,7 @@ created on Google Colaboratory using [Plotly](https://plotly.com/python/). In pa
 
 as we loss [Bon Scott](https://en.wikipedia.org/wiki/Bon_Scott), [John Bonham](https://en.wikipedia.org/wiki/John_Bonham), [John Lennon](https://en.wikipedia.org/wiki/John_Lennon). Even [Deep Purple](https://en.wikipedia.org/wiki/Deep_Purple) was not around.
 
-The visual is generated from the dataset <code>dataset/timeline.csv</code> prepared by the author. Users are free to download and edit their copy. A 
+The visual is generated from the dataset <code>dataset/timeline.csv</code> prepared by the author. Users are free to download and edit their copy.
 
 ## References
 * Plotly Documentation, [https://plotly.com/python/](https://plotly.com/python/). 
